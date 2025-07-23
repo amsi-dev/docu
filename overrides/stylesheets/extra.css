@@ -1,0 +1,13 @@
+/* Modo claro */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #e39433;
+  --md-primary-fg-color--light: #f0bc62;
+  --md-accent-fg-color:         #d4780a;
+}
+
+/* Modo oscuro */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #d4780a;
+  --md-primary-fg-color--light: #f0bc62;
+  --md-accent-fg-color:         #d4780a;
+}
