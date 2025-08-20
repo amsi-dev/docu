@@ -1,4 +1,5 @@
 site_name: AMSI Docs
+docs_dir: docs
 
 theme:
   name: material
@@ -52,7 +53,7 @@ repo_name: AMSI Docu
 plugins:
   - search
   - glightbox  
-  
+
 markdown_extensions:
   - admonition
   - attr_list
